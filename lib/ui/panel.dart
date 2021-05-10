@@ -20,7 +20,7 @@
 //OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 //SOFTWARE.
 
-part of fijkplayer;
+part of fijk2player;
 
 /// Default builder generate default [FijkPanel] UI
 Widget defaultFijkPanelBuilder(FijkPlayer player, FijkData data,

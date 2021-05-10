@@ -1,12 +1,11 @@
 name: flutter_surface_plugin
-description: A new Flutter plugin.
+description: flutter 基于gsy二次封装的播放器，底层依旧是ijk
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/lianyagang/flutter-surfaceview-player.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
-
+  flutter: ">=1.12.0"
 dependencies:
   flutter:
     sdk: flutter

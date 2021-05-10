@@ -2,7 +2,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:flutter_surface_plugin/fijkplayer.dart';
+import 'package:flutter_surface_plugin/fijk2player.dart';
 /// https://fijkplayer.befovy.com/docs/zh/custom-ui.html#%E6%97%A0%E7%8A%B6%E6%80%81-ui-
 Widget simplestUI(
     FijkPlayer player, BuildContext context, Size viewSize, Rect texturePos) {

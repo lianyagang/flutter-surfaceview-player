@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_surface_plugin/fijkplayer.dart';
+import 'package:flutter_surface_plugin/fijk2player.dart';
 
 class VideoScreen extends StatefulWidget {
   final String url;

@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:flutter_surface_plugin/fijkplayer.dart';
+import 'package:flutter_surface_plugin/fijk2player.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 

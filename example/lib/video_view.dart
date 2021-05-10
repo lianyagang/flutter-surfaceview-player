@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:flutter_surface_plugin/fijkplayer.dart';
+import 'package:flutter_surface_plugin/fijk2player.dart';
 
 class VideoView extends StatefulWidget {
   final String? url;
